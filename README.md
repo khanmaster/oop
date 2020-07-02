@@ -3,6 +3,9 @@
 ## Encapsulation
 ## Polymorphism
 
+![](https://github.com/
+khanmaster/oop/blob/master/OOP_python.png)
+
 ### abstraction
 ```bash
 when using methods in our code
